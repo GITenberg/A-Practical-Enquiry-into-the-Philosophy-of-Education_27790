@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32912'
     url: http://www.gutenberg.org/2009/agents/32912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27790#A-Practical-Enquiry-into-the-Philosophy-of-Education
 gutenberg_issued: '2009-01-13'
 gutenberg_type: Text
 identifiers:
